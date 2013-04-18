@@ -27,7 +27,6 @@ Several of us go through life unknowingly sitting on a pot of gold (our skills, 
 
 
 What can we do to uncover the hidden potential, so that we don\'t end up like the beggar in the story ?
-Please share your views in the comments.
 
 
 .. _here: http://mandarvaze.posterous.com/story-of-a-man-complaining-to-the-god
