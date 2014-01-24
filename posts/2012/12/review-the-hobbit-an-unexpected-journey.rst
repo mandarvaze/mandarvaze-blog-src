@@ -6,7 +6,7 @@ Review "The Hobbit : An Unexpected Journey"
 :tags: review, personal
 :slug: the-hobbit-an-unexpected-journey
 
-.. image:: ./static/images/hobbit.jpg
+.. image:: /images/hobbit.jpg
    :alt: The Hobbit
 
 Before I get into my own experience I have some complaints against Peter Jackson and his PR team. Hel,, the "Rise of Guardians" got better publicity (May be due to holiday season and it being kinds movie and/ot due to tie up with McDonald's) "The Hobbit" hardly got any publicity in Pune. If it were not for TV ads, I would not have even known it was released (and I would have mostly missed it) There aren't enough shows in Pune IMO. There were NO ads in the Movie Ads page in DNA.
