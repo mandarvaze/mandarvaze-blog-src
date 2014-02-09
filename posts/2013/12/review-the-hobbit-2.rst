@@ -2,8 +2,9 @@ Review "The Hobbit : The Desolation of Smaug"
 #############################################
 
 :date: 2013-12-26
-:tags: review, personal
+:tags: personal
 :slug: the-hobbit-desolation-of-smaug
+:category: review
 
 .. image:: /images/hobbit2.jpg
    :alt: The Hobbit
