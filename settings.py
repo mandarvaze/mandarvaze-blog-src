@@ -24,7 +24,7 @@ DEFAULT_CATEGORY = 'Blog'
 
 AUTHOR = 'Mandar Vaze'
 SITENAME = 'Desi Penguin\'s Blog'
-SITEURL = 'http://mandarvaze.github.com'
+SITEURL = 'http://mandarvaze.github.io'
 
 # I like to have ``Archives`` in the main menu.
 MENUITEMS = (
@@ -38,5 +38,5 @@ REVERSE_ARCHIVE_ORDER = True
 # Uncomment what ever you want to use
 #GOOGLE_ANALYTICS = 'XX-XXXXXXX-XX'
 #DISQUS_SITENAME = 'yourdisqushandle'
-GITHUB_URL = 'http://github.com/mandarvaze/mandarvaze.github.com'
+GITHUB_URL = 'http://github.com/mandarvaze/mandarvaze.github.io'
 TWITTER_USERNAME = 'mandarvaze'
