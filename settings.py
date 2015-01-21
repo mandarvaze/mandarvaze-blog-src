@@ -37,6 +37,6 @@ REVERSE_ARCHIVE_ORDER = True
 
 # Uncomment what ever you want to use
 #GOOGLE_ANALYTICS = 'XX-XXXXXXX-XX'
-#DISQUS_SITENAME = 'yourdisqushandle'
+DISQUS_SITENAME = 'desipenguinsblog'
 GITHUB_URL = 'http://github.com/mandarvaze/mandarvaze.github.io'
 TWITTER_USERNAME = 'mandarvaze'
