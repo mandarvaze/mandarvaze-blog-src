@@ -6,12 +6,22 @@ Why I moved to Static Blog ?
 :tags: thoughts, musings
 :slug: why-move-to-static-blog
 
+
+.. contents::
+..
+   1  Wordpress.com
+   2  Self-hosted Wordpress
+   3  Posterous
+   4  Finally, Static website ...
+   5  Securing the source
+
+
 This is my third attempt at blogging.
 
 Wordpress.com
 -------------
 First_ one is still on hosted wordpress site.
-In a way, that is nice. Pretty much no administration needed. 
+In a way, that is nice. Pretty much no administration needed.
 One can install the plugins that are tested by wordpress.com They also upgrade
 the platform for you. Great for testing the waters for the first time blogger.
 I think it is better than blogspot (*I can't remember if I had one of those, and moved to wordpress*)
@@ -23,16 +33,16 @@ It was a great experience. I got to try my hands at setting my blog *just the wa
 But after initial excitement was over, it started to become burden. One had to
 spend a lot more time administering the blog (upgrade to latest version of wordpress, and the plugins) and less focus on writing.
 I never upgrade the blog to wordpress 3 (*which by now is very mature*)
-I always kept postponing it because upgrade might *break* things, 
+I always kept postponing it because upgrade might *break* things,
 so I would do it when I have enough time.
 
 Unfortunately, after a while I wasn't writing much, and stopped paying
-attention to the blog. I had also used my *non-standard* email ID with 
-the hosting provider. 
+attention to the blog. I had also used my *non-standard* email ID with
+the hosting provider.
 
-The cascading effect was recently I lost access to my blog and the domain. 
-It was completely my fault. My hosting provider did send multiple reminders 
-for renewal, but I wasn't checking that account often enough, and when I finally 
+The cascading effect was recently I lost access to my blog and the domain.
+It was completely my fault. My hosting provider did send multiple reminders
+for renewal, but I wasn't checking that account often enough, and when I finally
 did, they had probably given up. (*I did contact them later, but they ignored my emails*)
 
 But I definitely learnt a lot.
@@ -41,7 +51,7 @@ Posterous
 ---------
 Then while I still had my self-hosted wordpress blog, along came posterous.
 What I liked about them was I could post via email. I really liked the concept.
-They didn't great themes like wordpress, but if the focus was writing, then it 
+They didn't great themes like wordpress, but if the focus was writing, then it
 shouldn't matter.
 
 .... and then they were acquired by twitter. As everyone had predicted, twitter shut them down.
@@ -51,7 +61,7 @@ But the result was in both cases, I had lost access to my blog.
 
 Finally, Static website ...
 ---------------------------
-This was the time, static website generators were picking up. 
+This was the time, static website generators were picking up.
 Over at HN_ I came across several options like Octopress_, Jekyll_, Pelican_ .
 (*I chose Pelican because it is written in Python, language which I am comfortable with, as opposed to Jekyll and Octopress.*)
 

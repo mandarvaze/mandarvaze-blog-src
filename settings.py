@@ -3,9 +3,8 @@
 # This can also be the absolute path to a theme that you downloaded
 # i.e. './themes/anothertheme/'
 #THEME = 'notmyidea'
-THEME = 'octopress'
-#THEME = 'pelican-svbtle'
-#THEME = 'pelican-cait'
+#THEME = 'octopress'
+THEME = 'pelican-elegant'
 
 # The folder ``images`` should be copied into the folder ``static`` when
 # generating the output.
@@ -40,3 +39,22 @@ REVERSE_ARCHIVE_ORDER = True
 DISQUS_SITENAME = 'desipenguinsblog'
 GITHUB_URL = 'http://github.com/mandarvaze/mandarvaze.github.io'
 TWITTER_USERNAME = 'mandarvaze'
+
+SOCIAL = (('twitter', 'http://twitter.com/mandarvaze'),
+          ('linkedin', 'https://www.linkedin.com/in/mandarvaze'),
+          ('github', 'http://github.com/mandarvaze'),)
+
+PLUGIN_PATHS = ['../pelican-plugins/']
+
+# Elegant theme specific configurations
+PLUGINS = ['sitemap', 'extract_toc', 'tipue_search', 'neighbors']
+MD_EXTENSIONS = ['codehilite(css_class=highlight)', 'extra', 'headerid', 'toc']
+DIRECT_TEMPLATES = (('index', 'tags', 'categories','archives', 'search', '404'))
+TAG_SAVE_AS = ''
+AUTHOR_SAVE_AS = ''
+CATEGORY_SAVE_AS = ''
+USE_SHORTCUT_ICONS = True
+DEFAULT_PAGINATION = False
+RECENT_ARTICLES_COUNT = 5
+# SMO
+FEATURED_IMAGE = SITEURL + '/theme/images/apple-touch-icon-152x152.png'

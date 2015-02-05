@@ -12,5 +12,4 @@ This is the fix_ for one of the bugs-that-matters in melange subproject of Opens
 Feels good :)
 
 
-.. _fix: https://github.com/openstack/melange/commit/d8ff17ecb9466b64dbd064710489ea62843e6636
-
+.. _fix: https://bugs.launchpad.net/melange/+bug/971504/comments/9

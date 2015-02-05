@@ -8,6 +8,12 @@ Ghost on Openshift
 
 :summary: `Openshift <https://openshift.redhat.com>`_ is PAAS from redhat, `Ghost <https://ghost.org/>`_ is a new blogging platform built using node.js and supports writing the posts in Markdown format
 
+.. contents::
+..
+   1  Email Setup
+   2  Theme Setup
+   3  Intuition helps
+
 Installing Ghost wasn't difficult at all, especially with all the `great documentation <https://www.openshift.com/quickstarts/ghost-on-openshift>`_ supplied by Openshift community
 
 Email Setup
@@ -60,7 +66,7 @@ As suggested somewhere - I had also checked the file permissions (all were 644/r
 Intuition helps
 ---------------
 
-I'm not sure what made me use the ZIP files (from github) in place of the cloned repo. The previous theme that worked may have something to do with it. 
+I'm not sure what made me use the ZIP files (from github) in place of the cloned repo. The previous theme that worked may have something to do with it.
 
 I think it is intuition from troubleshooting various problems over the years.
 

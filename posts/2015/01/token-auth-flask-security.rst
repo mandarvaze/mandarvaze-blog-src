@@ -2,13 +2,25 @@ Token Based Authentication with Flask-Security
 ##############################################
 
 :date: 2015-01-15
-:modified: 2015-01-15
-:tags: thats, awesome
+:modified: 2015-02-03
 :category: tutorial
 :slug: token-auth-with-flask-security
 :tags: how-to, python, learning
 :author: Mandar Vaze
 
+.. contents::
+..
+   1  Intro
+   2  Define User and Roles
+   3  Configurations
+   4  API Endpoint
+   5  Lets Test
+   6  Another Configuration
+   7  Get the Token
+
+
+Intro
+-----
 
 I'm working on a Flask based API server (why Flask, why not xyz - is a topic for another discussion, but FWIW I am considering Django)
 
@@ -18,10 +30,13 @@ Unfortunately, documentation for Flask-Security isn't up to the mark (at least a
 
 I went thru the documentation, SO links, Google Searches, Flask-Security code walk thru, debugging that code, looking at the Flask-Security test cases. All of it finally was worth it, because I was able to get Token based Authentication to work.
 
+Define User and Roles
+---------------------
+
 Basic code that defines the ``User`` and ``Role`` classes, initializes Flask-Security extension.
 This is not different from what is available in the documentation (Except may be additional attributes for ``User`` class)
 
-.. code-block:: python 
+.. code-block:: python
 
 	# A base model for other database tables to inherit
 	class Base(db.Model):
@@ -86,18 +101,24 @@ This is not different from what is available in the documentation (Except may be
 	        user_datastore.create_user(email='test@example.com', password='test123')
 	        db.session.commit()
 
+Configurations
+--------------
+
 In the ``config.py`` I have following flask security configurations (for now - more will come)
 
-.. code-block:: python 
+.. code-block:: python
 
     SECURITY_PASSWORD_HASH = 'pbkdf2_sha512'
     SECURITY_TRACKABLE = True
     SECURITY_PASSWORD_SALT = 'something_super_secret_change_in_production'
 
 
+API Endpoint
+------------
+
 Add a dummy API endpoint like this :
 
-.. code-block:: python 
+.. code-block:: python
 
 	from flask_security import auth_token_required
 	from flask import jsonify
@@ -113,13 +134,16 @@ Add a dummy API endpoint like this :
 	    return jsonify(items=ret_dict)
 
 
+Lets Test
+---------
+
 Now all the pieces are set. Lets test.
 
 Lets try whether authentication itself works.
 
 First change  the ``@auth_token_required`` decorator to ``@http_auth_required``
 
-Now you can now access the URL ``127.0.0.1:5001/dummy-api/`` via the browser. 
+Now you can now access the URL ``127.0.0.1:5001/dummy-api/`` via the browser.
 You will see a pop up dialog that asks for the username and password
 
 Enter the email as username and password we created earlier with ``create_user``
@@ -144,7 +168,7 @@ One other option is to use a program like curl or http (I prefer this. ``pip ins
 	    <p>The server could not verify that you are authorized to access the URL
 	    requested. You either supplied the wrong credentials (e.g. a bad password),
 	    or your browser doesn't understand how to supply the credentials required.</p>
-    
+
 Now provide the authentication details, and see the expected response :
 
 .. code-block:: bash
@@ -173,22 +197,25 @@ First, before we forget, change the ``@http_auth_required`` decorator back to ``
 
 Now to "get" the auth token. Per Flask Security documentation :
 
-	Token based authentication is enabled by retrieving the user auth token by 
+	Token based authentication is enabled by retrieving the user auth token by
 	performing an HTTP POST with the authentication details as JSON data against
 	the authentication endpoint. A successful call to this endpoint will return
-	the user’s ID and their authentication token. This token can be used in 
-	subsequent requests to protected resources. 
+	the user’s ID and their authentication token. This token can be used in
+	subsequent requests to protected resources.
 
 First of all - the documentation doesn't specify which *authentication endpoint* ?
 Do I need to create one, or does Flask-Security provide me one by default ?
 
-Turns out ``/login`` is that default provided by Flask-Security 
+Turns out ``/login`` is that default provided by Flask-Security
 (An older post on flask mailing list mentioned ``/auth``. May be it was, in 2012. Not anymore)
 
 Testing ``http_auth`` was easy, also it was a ``GET`` request. Performing ``POST`` request isn't trivial.
 At first I tried Postman client (Chrome Extension) - But it didn't work.
 
 Then on SO - I came across `this <http://stackoverflow.com/questions/24186694/combining-flask-restless-flask-security-and-regular-python-requests>`_ post. While that person went with `Flask-JWT` - I didn't need to. It gave me an idea of using `requests` for the `POST` call.
+
+Another Configuration
+---------------------
 
 But before all is well - we need one entry in config.py as follows :
 
@@ -197,6 +224,9 @@ But before all is well - we need one entry in config.py as follows :
     # Without this get_auth_token via POST request w/ JSON data does not work
     # You keep getting "CSRF token missing" error
     WTF_CSRF_ENABLED = False
+
+Get the Token
+-------------
 
 I did the following in ipython console - but one can very well convert this to a stand alone script, if needed.
 
@@ -209,7 +239,7 @@ I did the following in ipython console - but one can very well convert this to a
 	In [22]: r = requests.post('http://127.0.0.1:5001/login', data=json.dumps({'email':'test@example.com', 'password':'test123'}), headers={'content-type': 'application/json'})
 
 	In [23]: r.json()
-	Out[23]: 
+	Out[23]:
 	{'meta': {'code': 200},
 	 'response': {'user': {'authentication_token': 'WyIxIiwiY2UwZWY0MDFjYTA3MmJlODcyODkzYjYxOGQzZjk4YzUiXQ.B5e5Sg.qcsDcaMgiRqx21YTC0OwwnihINM',
 	   'id': '1'}}}
