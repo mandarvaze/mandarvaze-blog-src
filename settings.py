@@ -4,7 +4,7 @@
 # i.e. './themes/anothertheme/'
 #THEME = 'notmyidea'
 #THEME = 'octopress'
-THEME = 'pelican-elegant'
+THEME = './themes/pelican-elegant'
 
 # The folder ``images`` should be copied into the folder ``static`` when
 # generating the output.
@@ -34,6 +34,9 @@ WITH_PAGINATION = True
 DEFAULT_PAGINATION = 5
 REVERSE_ARCHIVE_ORDER = True
 
+# Post upgrade to 3.6, it is suggested that caching be disabled
+LOAD_CONTENT_CACHE = False
+
 # Uncomment what ever you want to use
 #GOOGLE_ANALYTICS = 'XX-XXXXXXX-XX'
 DISQUS_SITENAME = 'desipenguinsblog'
@@ -44,10 +47,10 @@ SOCIAL = (('twitter', 'http://twitter.com/mandarvaze'),
           ('linkedin', 'https://www.linkedin.com/in/mandarvaze'),
           ('github', 'http://github.com/mandarvaze'),)
 
-PLUGIN_PATHS = ['../pelican-plugins/']
+PLUGIN_PATHS = ['../pelican-plugins']
 
 # Elegant theme specific configurations
-PLUGINS = ['sitemap', 'extract_toc', 'tipue_search', 'neighbors']
+PLUGINS = ['asciidoc_reader', 'sitemap', 'extract_toc', 'tipue_search', 'neighbors']
 MD_EXTENSIONS = ['codehilite(css_class=highlight)', 'extra', 'headerid', 'toc']
 DIRECT_TEMPLATES = (('index', 'tags', 'categories','archives', 'search', '404'))
 TAG_SAVE_AS = ''
