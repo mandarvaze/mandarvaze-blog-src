@@ -3,7 +3,7 @@ xonsh : python-ish BASHward looking shell
 
 :slug: xonsh-python-shell
 :date: 2016-08-29 Mon 09:30
-:category: explore, review
+:category: explore
 :tags: python, shell
 :author: Mandar Vaze
 
