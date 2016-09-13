@@ -133,6 +133,8 @@ related fixes/improvements. But the problem did not go away. But there **is** a
 workaround. See the details and the workaround `here
 <https://github.com/xonsh/xonsh/issues/1577#issuecomment-240600295>`_
 
+See update_.
+
 Concluding thoughts
 -------------------
 
@@ -142,3 +144,11 @@ have open, at least 8 are running ``xonsh`` - That is not bad :)
 
 I encourage you to try ``xonsh`` especially if you are python developer. I'm
 sure you will **not** be disappointed.
+
+------
+
+.. _update:
+
+*Update: Sept 13, 2016*
+xonsh version ``0.4.6`` prevents this problem by not allowing to
+overwrite the built-in aliases like ``history`` and ``ls``
