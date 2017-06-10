@@ -9,12 +9,12 @@ Sketches
 :author: Mandar Vaze
 
 .. contents::
-.. image:: http://mandarvaze.bitbucket.org/galleries/sketches/tai.thumbnail.jpg
-   :target: http://mandarvaze.bitbucket.org/galleries/sketches/tai.jpg
+.. image:: http://mandarvaze.bitbucket.io/galleries/sketches/tai.thumbnail.jpg
+   :target: http://mandarvaze.bitbucket.io/galleries/sketches/tai.jpg
    :alt: Tai
 
-.. image:: http://mandarvaze.bitbucket.org/galleries/sketches/dada.thumbnail.jpg
-   :target: http://mandarvaze.bitbucket.org/galleries/sketches/dada.jpg
+.. image:: http://mandarvaze.bitbucket.io/galleries/sketches/dada.thumbnail.jpg
+   :target: http://mandarvaze.bitbucket.io/galleries/sketches/dada.jpg
    :alt: Dada
 
 |br|
@@ -36,7 +36,7 @@ I haven't perfected the "scanning" yet. I just take a photo using the android
 phone, and do slight editing to make the image look a little better.
 
 This time around, when I did that, I remembered the last `image
-<http://mandarvaze.bitbucket.org/galleries/sketches/buddha.png>`_ I had drawn on
+<http://mandarvaze.bitbucket.io/galleries/sketches/buddha.png>`_ I had drawn on
 the tablet, and the "white" background was not anything like I could get using
 "slight" editing of the "photographed" sketches.
 

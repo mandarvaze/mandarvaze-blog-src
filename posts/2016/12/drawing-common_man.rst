@@ -9,8 +9,8 @@ Sketches
 :author: Mandar Vaze
 
 .. contents::
-.. image:: http://mandarvaze.bitbucket.org/galleries/sketches/r_k_laxman.thumbnail.png
-   :target: http://mandarvaze.bitbucket.org/galleries/sketches/r_k_laxman.png
+.. image:: http://mandarvaze.bitbucket.io/galleries/sketches/r_k_laxman.thumbnail.png
+   :target: http://mandarvaze.bitbucket.io/galleries/sketches/r_k_laxman.png
    :alt: R K Laxman
 
 |br|

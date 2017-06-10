@@ -9,16 +9,16 @@ Sketches
 :author: Mandar Vaze
 
 .. contents::
-.. image:: http://mandarvaze.bitbucket.org/galleries/sketches/relatives1.thumbnail.png
-   :target: http://mandarvaze.bitbucket.org/galleries/sketches/relatives1.png
+.. image:: http://mandarvaze.bitbucket.io/galleries/sketches/relatives1.thumbnail.png
+   :target: http://mandarvaze.bitbucket.io/galleries/sketches/relatives1.png
    :alt: Nerd, Granny and Grandpa
 
-.. image:: http://mandarvaze.bitbucket.org/galleries/sketches/relatives2.thumbnail.png
-   :target: http://mandarvaze.bitbucket.org/galleries/sketches/relatives2.png
+.. image:: http://mandarvaze.bitbucket.io/galleries/sketches/relatives2.thumbnail.png
+   :target: http://mandarvaze.bitbucket.io/galleries/sketches/relatives2.png
    :alt: Uncle, Bro
 
-.. image:: http://mandarvaze.bitbucket.org/galleries/sketches/relatives3.thumbnail.png
-   :target: http://mandarvaze.bitbucket.org/galleries/sketches/relatives3.png
+.. image:: http://mandarvaze.bitbucket.io/galleries/sketches/relatives3.thumbnail.png
+   :target: http://mandarvaze.bitbucket.io/galleries/sketches/relatives3.png
    :alt: Sisters, Uncle
 
 

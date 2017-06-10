@@ -82,7 +82,7 @@ Finalize the blogging platform
 ------------------------------
 
 I have one blog in pelican. (This one. updated after a long time) and `other
-blog <http://mandarvaze.bitbucket.org>`_ in nikola. Switching between them just
+blog <http://mandarvaze.bitbucket.io>`_ in nikola. Switching between them just
 takes mental effort. If I were to standardize on it, there won't be "switching
 trouble"
 

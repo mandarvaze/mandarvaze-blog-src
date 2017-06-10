@@ -9,8 +9,8 @@ Sketches
 :author: Mandar Vaze
 
 .. contents::
-.. image:: http://mandarvaze.bitbucket.org/galleries/sketches/dog3.thumbnail.png
-   :target: http://mandarvaze.bitbucket.org/galleries/sketches/dog3.png
+.. image:: http://mandarvaze.bitbucket.io/galleries/sketches/dog3.thumbnail.png
+   :target: http://mandarvaze.bitbucket.io/galleries/sketches/dog3.png
    :alt: Dog
 
 |br|

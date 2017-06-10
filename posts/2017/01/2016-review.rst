@@ -30,7 +30,7 @@ Blogged
 -------
 
 Wrote 28 posts on my (relatively) new `blog
-<http://mandarvaze.bitbucket.org/2016/index.html>`_ Not enough on this blog
+<http://mandarvaze.bitbucket.io/2016/index.html>`_ Not enough on this blog
 though. I mean to combined both of them this year. `See
 <http://mandarvaze.github.io/2016/08/easier-blogging.html#finalize-the-blog-home>`_
 
@@ -40,7 +40,7 @@ decided to "just ship it" rather than keep editing the draft till it is perfect.
 Sketched
 --------
 
-Did about 25 `sketches <http://mandarvaze.bitbucket.org/galleries/sketches/>`_.
+Did about 25 `sketches <http://mandarvaze.bitbucket.io/galleries/sketches/>`_.
 
 Some of the initial ones are scanned/uploaded almost as a
 second thought (and it was. They were drawn to amuse my son, hence "any" paper
