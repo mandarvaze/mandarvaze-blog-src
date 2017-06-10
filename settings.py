@@ -47,10 +47,10 @@ SOCIAL = (('twitter', 'http://twitter.com/mandarvaze'),
           ('linkedin', 'https://www.linkedin.com/in/mandarvaze'),
           ('github', 'http://github.com/mandarvaze'),)
 
-PLUGIN_PATHS = ['../pelican-plugins']
+PLUGIN_PATHS = ['/projects/myblog/pelican-plugins']
 
 # Elegant theme specific configurations
-PLUGINS = ['asciidoc_reader', 'sitemap', 'extract_toc', 'tipue_search', 'neighbors']
+PLUGINS = ['asciidoc_reader', 'sitemap', 'extract_toc', 'tipue_search', 'neighbors', 'share_post']
 MD_EXTENSIONS = ['codehilite(css_class=highlight)', 'extra', 'headerid', 'toc']
 DIRECT_TEMPLATES = (('index', 'tags', 'categories','archives', 'search', '404'))
 TAG_SAVE_AS = ''
