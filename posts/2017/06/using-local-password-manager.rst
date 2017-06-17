@@ -1,6 +1,6 @@
 :title: Using local password manager
 :slug: using-local-password-manager
-:date: 2017-06-15 12:57:48 UTC+05:30
+:date: 2017-06-17 12:57:48 UTC+05:30
 :tags: security, gpg, gpg2, password, how-to
 :category: tutorial
 :type: text
