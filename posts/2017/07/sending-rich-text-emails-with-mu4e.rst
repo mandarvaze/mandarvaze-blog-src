@@ -5,6 +5,8 @@
 :slug: sending-rich-text-emails-with-mu4e
 :modified: Thu Jul 6 11:22:38 2017
 
+.. contents::
+
 Rich text in emails
 -------------------
 

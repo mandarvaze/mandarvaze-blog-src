@@ -3,7 +3,6 @@
 :date: 2017-06-10 20:34:24 UTC+05:30
 :tags: python, micro
 :category: TIL
-:type: text
 
 If you install python via the package manager for your OS (:code:`brew`,
 :code:`apt-get`, :code:`yum`) you can have only one version of python at the

@@ -3,7 +3,8 @@
 :date: 2017-06-17 12:57:48 UTC+05:30
 :tags: security, gpg, gpg2, password, how-to
 :category: tutorial
-:type: text
+
+.. contents::
 
 Bit of history
 --------------
