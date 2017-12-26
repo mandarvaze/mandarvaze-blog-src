@@ -23,7 +23,7 @@ DEFAULT_CATEGORY = 'Blog'
 
 AUTHOR = 'Mandar Vaze'
 SITENAME = 'Desi Penguin\'s Blog'
-SITEURL = 'http://mandarvaze.github.io'
+SITEURL = 'https://mandarvaze.github.io'
 
 # I like to have ``Archives`` in the main menu.
 MENUITEMS = (
@@ -40,12 +40,12 @@ LOAD_CONTENT_CACHE = False
 # Uncomment what ever you want to use
 #GOOGLE_ANALYTICS = 'XX-XXXXXXX-XX'
 DISQUS_SITENAME = 'desipenguinsblog'
-GITHUB_URL = 'http://github.com/mandarvaze/mandarvaze.github.io'
+GITHUB_URL = 'https://github.com/mandarvaze/mandarvaze.github.com'
 TWITTER_USERNAME = 'mandarvaze'
 
-SOCIAL = (('twitter', 'http://twitter.com/mandarvaze'),
+SOCIAL = (('twitter', 'https://twitter.com/mandarvaze'),
           ('linkedin', 'https://www.linkedin.com/in/mandarvaze'),
-          ('github', 'http://github.com/mandarvaze'),)
+          ('github', 'https://github.com/mandarvaze'),)
 
 PLUGIN_PATHS = ['/projects/myblog/pelican-plugins']
 
