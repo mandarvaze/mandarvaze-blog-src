@@ -2,9 +2,9 @@
 title: 2016 was a great year
 date : 2017-01-08
 tags :
-- annual review
+- personal
 categories: 
-- misc
+- annual review
 coverImage: "https://source.unsplash.com/2WzAjz52hAY/750x350"
 coverSize: "partial"
 ---

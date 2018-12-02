@@ -4,7 +4,7 @@ date : Tue Jan 9 17:04:53 2018
 tags : 
 - personal
 categories: 
-- misc
+- annual review
 coverImage: "https://source.unsplash.com/1tTLrL50bpA/750x350"
 coverSize: "partial"
 ---

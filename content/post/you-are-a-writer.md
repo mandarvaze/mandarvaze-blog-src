@@ -5,7 +5,6 @@ categories:
 - meta
 tags:
 - writing
-- personal
 coverImage: "https://source.unsplash.com/Hcfwew744z4/750x350"
 coverSize: "partial"
 ---

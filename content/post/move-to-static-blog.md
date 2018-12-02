@@ -4,7 +4,7 @@ date: 2013-04-18
 categories:
 - meta
 tags:
-- blog
+- blogging
 coverImage: "https://source.unsplash.com//1CrN-IbvtH0/750x350"
 coverSize: "partial"
 ---
