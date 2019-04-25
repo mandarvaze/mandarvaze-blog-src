@@ -12,7 +12,7 @@ coverSize: "partial"
 *Actual conversation with my 5 year-old. I was trying to explain about scavengers*
 <!--more-->
 
-Me: Do you what are scavengers ?
+Me: Do you know what are scavengers ?
 
 him: Yes, आकाशात राहणारे superheroes ना ? (*Superheroes that live in the sky,
 right ?*)
@@ -27,7 +27,7 @@ Me: No. Those are **Avengers** and they don't **live** in the sky. Some of
 them can just "fly"
 
 Me : Scavengers (*stressed sk sound when pronouncing*) are those animals who do
-not hunt, but each leftovers when other carnivores are done eating.
+not hunt, but eat leftovers when other carnivores are done eating.
 
 ..
 
