@@ -3,17 +3,12 @@ title: 2016 was a great year
 date : 2017-01-08
 tags :
 - personal
-categories: 
 - annual review
-coverImage: "https://source.unsplash.com/2WzAjz52hAY/750x350"
-coverSize: "partial"
+toc : true
 ---
-
 Some of the highlights of the year gone by
 
-<!--more-->
-<!-- toc -->
-# Moved to spacemacs
+### Moved to spacemacs
 
 I had started experimenting with spacemacs around late 2015. In 2016, I
 completely switched to spacemacs. I'm consciously saying spacemacs,
@@ -28,7 +23,7 @@ well.
 I tried using `mu4e` partially successfully for a while,
 but gave up. Time to give it another go in 2017.
 
-# Blogged
+### Blogged
 
 Wrote 28 posts on my (relatively) new
 [blog](http://mandarvaze.bitbucket.io/2016/index.html) Not enough on
@@ -39,7 +34,7 @@ Why it worked ? I had clear focus about *what* to write about. Also, I
 had decided to "just ship it" rather than keep editing the draft till
 it is perfect.
 
-# Sketched
+### Sketched
 
 Did about 25
 [sketches](http://mandarvaze.bitbucket.io/galleries/sketches/).
@@ -51,7 +46,7 @@ do.)
 Later I because a bit conscious. Now I draw for myself. Hence better
 "paper", background etc.
 
-# Shipped Product
+### Shipped Product
 
 In 2016, I shipped one more product. This is my third product which I
 created from the ground up. Earlier two products are in web2py.
@@ -67,13 +62,9 @@ This time around, I did several things differently.
 -   Wrote API documentation using `sphinx`
 -   Used gitlab (Earlier products used privately hosted git repo)
 
-# Plans for 2017
+### Plans for 2017
 
 - Start using golang seriously
 - Email within spacemacs
 - Continue blogging
 - Continue drawing
-
---------
-
-*Photo by [Ty Feague](https://unsplash.com/@tyfeague)*

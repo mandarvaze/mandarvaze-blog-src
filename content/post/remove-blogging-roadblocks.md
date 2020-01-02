@@ -1,19 +1,16 @@
 ---
 title: 6 things to make (my) blogging frictionless
 date: 2016-08-23
-categories:
-- meta
 tags :
 - blogging
-coverImage: "https://source.unsplash.com/vZJdYl5JVXY/750x350"
-coverSize: "partial"
+- meta
+toc: true
+
 ---
+![Friction](https://source.unsplash.com/vZJdYl5JVXY/750x350)
 
 *Reflection on some issues I faced. If you find some of these useful, great.
 The post is not intended as an advice*
-<!--more-->
-
-<!--toc-->
 
 # Background
 
