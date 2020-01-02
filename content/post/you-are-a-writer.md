@@ -1,15 +1,13 @@
 ---
 title: "You Are a Writer"
 date: 2018-10-31T07:25:19+05:30
-categories:
-- meta
 tags:
+- meta
 - writing
-coverImage: "https://source.unsplash.com/Hcfwew744z4/750x350"
-coverSize: "partial"
 ---
+![Writer](https://source.unsplash.com/Hcfwew744z4/750x350)
+
 You are a writer. (So start acting like one)
-<!--more-->
 
 I started reading a book by Jeff Goins, with the same name as the title of this
 post.

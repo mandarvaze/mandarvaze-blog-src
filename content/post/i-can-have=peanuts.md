@@ -5,11 +5,12 @@ categories:
 - shower-thoughts
 tags:
 - gratitude
-coverImage: https://source.unsplash.com/8LbcvCZnmyw/750x350
 coverSize: "partial"
 ---
+
+![Peanuts](https://source.unsplash.com/8LbcvCZnmyw/750x350)
 I am so grateful that I can have peanuts.
-<!--more-->
+
 
 I love peanuts.
 

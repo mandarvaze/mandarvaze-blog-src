@@ -3,19 +3,15 @@ title: "2017 : Another great year"
 date : Tue Jan 9 17:04:53 2018
 tags : 
 - personal
-categories: 
 - annual review
-coverImage: "https://source.unsplash.com/1tTLrL50bpA/750x350"
-coverSize: "partial"
+toc : true
 ---
 
-Looking back at 2017
+![Looking Back](https://source.unsplash.com/1tTLrL50bpA/750x350)
 
-<!--more-->
+### Learning
 
-## Learning
-
-### Programming Language
+#### Programming Language
 
 In the review of 2016, I had written about "learning go".
 
@@ -37,7 +33,7 @@ and towards the end of the year, I again picked up "go lang" (This is
 for a project I will be working on in 2018) This time, I took another
 udemy course, by the same instructor.
 
-### Non Programming Language
+#### Non Programming Language
 
 I've started learning Esperanto, after learning about it on one of the
 freakonomics podcast. I'm using Duolingo.
@@ -45,7 +41,7 @@ freakonomics podcast. I'm using Duolingo.
 The language is simple (as claimed) so far. But I am worried that
 without regular practice, I might forget it.
 
-## Visual note taking
+### Visual note taking
 
 Completed Visual Note taking 101 course by sunni brown Completed "Notes
 a like a genius" course on Udemy
@@ -57,7 +53,7 @@ You can look at my new (and old)
 [sketchnotes](https://mandarvaze.bitbucket.io/galleries/sketchnotes/) on
 my other blog.
 
-## Journaling
+### Journaling
 
 In late November, early december, Started journaling.
 
@@ -66,7 +62,7 @@ I'm still figuring it out.
 I'm applying some principles I learnt in the visual note taking course.
 I'm making it "interesting"
 
-## Meditation
+### Meditation
 
 I started using "Insight Timer" app.
 
@@ -88,18 +84,18 @@ Lately (early/mid December) I have started doing "Isha Kriya". I start
 the insight timer when I do it, since it is a form of meditation, and
 allows me to record my timing.
 
-## Blogging
+### Blogging
 
 Didn't happen as much as 2016
 
-## Drawing - Sketching
+### Drawing - Sketching
 
 I've been much more deliberate this year. I created an [instagram
 account](https://www.instagram.com/mandar_vaze/) to share my sketches.
 
 Ohh, I also purchased flume, an instragram app for macOS
 
-## Plans for 2018
+### Plans for 2018
 
 My current project has come to an end.
 

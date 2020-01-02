@@ -1,15 +1,15 @@
 ---
 title: "Why I moved to Static Blog ?"
 date: 2013-04-18
-categories:
-- meta
 tags:
 - blogging
-coverImage: "https://source.unsplash.com//1CrN-IbvtH0/750x350"
-coverSize: "partial"
+- meta
+toc: true
 ---
+![Pelican](https://source.unsplash.com//1CrN-IbvtH0/750x350)
+
 Little bit of a histoy of my blog at various platforms.
-<!--more-->
+
 
 This is my third attempt at blogging.
 

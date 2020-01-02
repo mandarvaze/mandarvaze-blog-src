@@ -1,13 +1,12 @@
 ---
 title: "Scavengers"
 date: 2018-12-06T10:56:09+05:30
-categories:
-- kids
 tags:
+- kids
 - funny
-coverImage: "https://source.unsplash.com/OegrZj5C9y0/750x350"
-coverSize: "partial"
 ---
+
+![Scavengers](https://source.unsplash.com/OegrZj5C9y0/750x350)
 
 *Actual conversation with my 5 year-old. I was trying to explain about scavengers*
 <!--more-->

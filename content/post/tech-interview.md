@@ -1,12 +1,9 @@
 ---
 title: "Tech Interview"
 date: 2018-11-01T08:10:49+05:30
-categories:
-- career
 tags:
+- career
 - funny
-coverImage: "https://source.unsplash.com/kyRiEW0S7FY/750x350"
-coverSize: "partial"
 ---
 
 *These are actual exchanges from a technical interview I conduced recently. The
@@ -81,5 +78,3 @@ Candidate: Only my team has access. Developers do not have access to this repo
 at all.
 
 ------
-
-*Photo by [rawpixel](https://unsplash.com/@rawpixel)*
