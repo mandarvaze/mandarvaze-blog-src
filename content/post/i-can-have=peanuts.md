@@ -1,11 +1,8 @@
 ---
 title: "I Can Have Peanuts"
 date: 2019-04-25T07:18:10+05:30
-categories:
-- shower-thoughts
 tags:
 - gratitude
-coverSize: "partial"
 ---
 
 ![Peanuts](https://source.unsplash.com/8LbcvCZnmyw/750x350)
