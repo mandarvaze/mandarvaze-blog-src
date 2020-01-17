@@ -54,7 +54,7 @@ canonifyurls = true # Was this from Hugo or from previous themse ?
 
 [params]
   showAuthorInfo = false  # I don't want Author Name License etc at the end of each page.
-  since = "2013"            # Site creation time
+  since = "2009"            # Site creation time
   homeFullContent = true   # if false, show post summaries on home page. Othewise show full content.
   rssFullContent = true     # if false, Rss feed instead of the summary
 
