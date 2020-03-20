@@ -1,0 +1,12 @@
+.post .post-content {
+  font-size: 16px;
+  line-height: 1.5;
+  font-family: 'Merriweather', serif;
+  color: #444;
+}
+
+
+.post .post-header .post-title {
+    font-family: 'Oswald', sans-serif;
+}
+
