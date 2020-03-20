@@ -1,4 +1,4 @@
-baseURL = "https://mandarvaze.github.io/"
+baseURL = "https://writings.desipenguin.com/"
 title = "Desi Penguin's Blog"
 enableRobotsTXT = true
 enableEmoji = true
@@ -64,7 +64,7 @@ canonifyurls = true # Was this from Hugo or from previous themse ?
   description = "Trying to get better at writing, plus posts migrated from the old blog."
 
   # The date format to use; for a list of valid formats, see https://gohugo.io/functions/format/
-  dateFormatToUse = "2006-01-02"
+  dateFormatToUse = "Jan 02, 2006"
 
   # 一些全局开关，你也可以在每一篇内容的 front matter 中针对单篇内容关闭或开启某些功能，在 archetypes/default.md 查看更多信息。
   # Some global options, you can also close or open something in front matter for a single post, see more information from `archetypes/default.md`.
@@ -74,7 +74,7 @@ canonifyurls = true # Was this from Hugo or from previous themse ?
 
   # Link custom CSS and JS assets
   #   (relative to /static/css and /static/js respectively)
-  customCSS = []            # if ['custom.css'], load '/static/css/custom.css' file
+  customCSS = ['custom.css']            # if ['custom.css'], load '/static/css/custom.css' file
   customJS = []             # if ['custom.js'], load '/static/js/custom.js' file
 
   [params.social]
