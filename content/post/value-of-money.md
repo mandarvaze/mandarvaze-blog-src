@@ -35,3 +35,7 @@ While he didn't mention it, this specific idea also help inculcate the habit of 
 especially when kids these days spend a lot of time sitting, be it in school, homework, TV or mobile.
 
 If only you and your spouse agree on how to raise the kids 😉
+
+----
+
+*Photo by [Micheile Henderson](https://unsplash.com/@micheile)*
