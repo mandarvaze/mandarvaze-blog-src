@@ -1,5 +1,5 @@
 ---
-title: "Value of Money"
+title: "Teaching Value of Money to your kids"
 date: 2020-12-01T05:36:36+05:30
 ---
 ![Value of Money](https://source.unsplash.com/ZVprbBmT8QA/800x600)
