@@ -41,9 +41,9 @@ defaultContentLanguage = "en"           # Default language to use
 #   identifier = "categories"
 #   url = "/categories/"
 [[menu.main]]
-  name = "Wiki"
+  name = "microblog"
   weight = 60
-  url = "https://wiki.desipenguin.com"
+  url = "https://microblog.desipenguin.com"
 [[menu.main]]
   name = "Learning"
   weight = 50
